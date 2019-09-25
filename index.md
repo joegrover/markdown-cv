@@ -1,46 +1,40 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josiah Grover CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Josiah Grover
+IPUMS, University of Minnesota.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="grover@umn.edu">grover@umn.edu</a>
+| 763-234-9351
+| 
 </div>
 
 
-## Currently
+## Appointments
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2016 - Present`
+__Senior Data Analist__, Institute for Social Research and Data Inovation, University of Minnesota
+`2014 - 2016`
+__Research Fellow__, Minnesota Population Center, University of Minnesota
+`2013 - 2014`
+__Graduate Research Assistant__, Minnesota Population center, Universty of Minnesota
+`2011 - 2013`
+__Survey Consultant__, Department of Sociology, Ball State University
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013`
+__M.A., Ball State University.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Sociology
 
-- Sizar
+`2009`
+__B.A., University of Minnesota Duluth__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- Sociology
+- Economics Minor
 
 ## Awards
 
