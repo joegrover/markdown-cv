@@ -39,7 +39,6 @@ __B.A., University of Minnesota Duluth__
 - Economics Minor
 
 ## Research
-
 ### Presentations
 
 `2019`
@@ -49,11 +48,14 @@ Association, Chicago, IL
 `2019`
 &mdash;. Presented at the 2018 Annual Meetings of the Population Association of America, Austin, TX
 
+
 `2018`
 "Coresident Electronic Cigarette Use and Adolescent Uptake." (with Kari Williams and Daniel Backman). Poster presented at the 2018 Annual Meetings of the Population Association of America, Denver, CO
 
+
 `2016`
 "Demographic Variation in Short-Term Labor Market Patterns, 1995-2015." (with Katie Genadek and Sarah Flood) Poster presented at the 2016 Annual Meetings of the Population Association of America, Washington, D.C.
+
 
 ### Databases
 
