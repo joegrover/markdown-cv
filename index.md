@@ -16,10 +16,13 @@ IPUMS, University of Minnesota.
 
 `2016 - Present`
 __Senior Data Analist__, Institute for Social Research and Data Inovation, University of Minnesota
+
 `2014 - 2016`
 __Research Fellow__, Minnesota Population Center, University of Minnesota
+
 `2013 - 2014`
 __Graduate Research Assistant__, Minnesota Population center, Universty of Minnesota
+
 `2011 - 2013`
 __Survey Consultant__, Department of Sociology, Ball State University
 
