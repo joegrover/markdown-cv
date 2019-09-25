@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Josiah Grover CV
+title: Josiah Grover | CV
 ---
 # Josiah Grover
 IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
@@ -14,7 +14,7 @@ IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
 ## Appointments
 
 `2016 - Present`
-__Senior Data Analist__, Institute for Social Research and Data Inovation, University of Minnesota
+__Senior Data Analyst__, Institute for Social Research and Data Inovation, University of Minnesota
 
 `2014 - 2016`
 __Research Fellow__, Minnesota Population Center, University of Minnesota
@@ -42,23 +42,16 @@ __B.A., University of Minnesota Duluth__
 
 ### Presentations
 
-`2016`
-Genadek, Katie, Sarah Flood, and Josiah Grover. "Demographic Variation in Short-Term Labor
-Market Patterns, 1995-2015." Presented at the 2016 Annual Meetings of the Population
-Association of America, Washington, D.C.
+"Building Relationships Where There Are None: Imputing Relationship Status in the 1850, 1860 and 1870 Decennial Census Files" (with Jose Pacas and Steven Ruggles). (Scheduled) 2019 Annual Meeting of Social Science History
+Association, Chicago, IL
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+&mdash; Presented at the 2018 Annual Meetings of the Population Association of America, Austin, TX
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+"Demographic Variation in Short-Term Labor Market Patterns, 1995-2015." (with Katie Genadek and Sarah Flood) Poster Presented at the 2016 Annual Meetings of the Population Association of America, Washington, D.C.
 
 ### Databases
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas and Matthew Sobek. IPUMS USA: Version 9.0 [dataset]. Minneapolis, MN: IPUMS, 2019. https://doi.org/10.18128/D010.V9.0
 
 
 ## Honors and Awards
@@ -88,6 +81,6 @@ Graduate Merit Fellowship, Department of Sociology
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2019 -->
 
 
