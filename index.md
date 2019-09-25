@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Josiah Grover | CV
+title: Josiah Grover
 ---
 # Josiah Grover
 IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
@@ -42,12 +42,18 @@ __B.A., University of Minnesota Duluth__
 
 ### Presentations
 
+`2019`
 "Building Relationships Where There Are None: Imputing Relationship Status in the 1850, 1860 and 1870 Decennial Census Files" (with Jose Pacas and Steven Ruggles). (Scheduled) 2019 Annual Meeting of Social Science History
 Association, Chicago, IL
 
-&mdash; Presented at the 2018 Annual Meetings of the Population Association of America, Austin, TX
+`2019`
+&mdash;. Presented at the 2018 Annual Meetings of the Population Association of America, Austin, TX
 
-"Demographic Variation in Short-Term Labor Market Patterns, 1995-2015." (with Katie Genadek and Sarah Flood) Poster Presented at the 2016 Annual Meetings of the Population Association of America, Washington, D.C.
+`2018`
+"Coresident Electronic Cigarette Use and Adolescent Uptake." (with Kari Williams and Daniel Backman). Poster presented at the 2018 Annual Meetings of the Population Association of America, Denver, CO
+
+`2016`
+"Demographic Variation in Short-Term Labor Market Patterns, 1995-2015." (with Katie Genadek and Sarah Flood) Poster presented at the 2016 Annual Meetings of the Population Association of America, Washington, D.C.
 
 ### Databases
 
