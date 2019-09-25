@@ -46,7 +46,7 @@ __B.A., University of Minnesota Duluth__
 Association, Chicago, IL
 
 `2019`
-&mdash;. Presented at the 2018 Annual Meetings of the Population Association of America, Austin, TX
+&mdash;. Presented at the 2019 Annual Meetings of the Population Association of America, Austin, TX
 
 
 `2018`
@@ -81,10 +81,11 @@ Graduate Merit Fellowship, Department of Sociology
 
 ## Memberships
 
-- Population Association of America
-- American Sociological Association
-- Minnesota Population Center
-- 
+Population Association of America
+
+American Sociological Association
+
+Minnesota Population Center
 
 
 <!-- ### Footer
