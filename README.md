@@ -1,4 +1,4 @@
-[joegrover.github.io/markdown-cv](joegrover.github.io/markdown-cv)
+[joegrover.github.io/markdown-cv](https://joegrover.github.io/markdown-cv/)
 
 markdown-cv
 ===========
