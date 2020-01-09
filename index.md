@@ -3,7 +3,6 @@ layout: cv
 title: Josiah Grover
 ---
 # Josiah Grover
-IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
 
 <div id="webaddress">
 <a href="grover@umn.edu">grover@umn.edu</a>
@@ -12,7 +11,7 @@ IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
 |
 </div>
 ![alt text](https://assets.github.umn.edu/favicon-ent.ico "github")
-<a href=https://github.umn.edu/grover>UMN GitHub</a>
+[UMN GitHub: grover](https://github.umn.edu/grover)
 
 
 
