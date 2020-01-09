@@ -8,9 +8,9 @@ title: Josiah Grover
 <a href="grover@umn.edu">grover@umn.edu</a>
 |
 763-234-9351
-|
 </div>
-![alt text](https://assets.github.umn.edu/favicon-ent.ico "github")
+
+![alt text](https://assets.github.umn.edu/favicon-ent.ico "github" =20x20)
 [UMN GitHub: grover](https://github.umn.edu/grover)
 
 
