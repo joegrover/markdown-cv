@@ -11,11 +11,6 @@ IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
 763-234-9351
 </div>
 
-![alt text](https://assets.github.umn.edu/favicon-ent.ico "github" =20x20)
-[UMN GitHub: grover](https://github.umn.edu/grover)
-
-
-
 ## Experience
 
 `2016 - Present`
