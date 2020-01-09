@@ -7,7 +7,10 @@ IPUMS, Institute for Social Research and Data Inovation, University of Minnesota
 
 <div id="webaddress">
 <a href="grover@umn.edu">grover@umn.edu</a>
-| 763-234-9351
+|
+763-234-9351
+|
+![alt text](https://assets.github.umn.edu/favicon-ent.ico "github")<a href=https://github.umn.edu/grover>UMN GitHub</a>
 </div>
 
 
